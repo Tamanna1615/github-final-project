@@ -28,3 +28,5 @@ Tamannnnna
 ## How to Run
 
 This is the final project for the Git & GitHub course.
+This line fixes a typo.
+
